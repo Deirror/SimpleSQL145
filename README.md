@@ -26,7 +26,7 @@ There are currently four types:
 What operations can be found?
 -
 
-This project supports most of the basic SQL functions like *select from*, *alter table*, *where expressions*, *delete from* and many other.
+This project supports most of the basic SQL commands like *select from*, *alter table*, *where expressions*, *delete from* and many other.
 | Operation | Description |
 |---|---|
 | `show tables` | This command shows the names of all existing tables in the given directory |
