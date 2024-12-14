@@ -11,3 +11,14 @@ How does it work?
 -
 
 When starting the program, the user will need to enter a path to the folder where the database data files are located. The application will then enter dialog mode and allow execution of requests to the database. The database is stored in .ss145 format!
+
+What about the field types?
+-
+
+There are currently four types:
+| Type Name | Description |
+|---|---|
+| `Integer` | Eepresents signed integers, also positive and negative |
+| `Real` | Rrepresents double-precision floating-point numbers |
+| `Text` | Stores character strings or textual information. It can contain any text of any length, including letters, numbers, symbols, and spaces |
+| `Null` | It is equal to empty field |
