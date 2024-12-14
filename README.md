@@ -10,4 +10,4 @@ This project aims to demonstrate important concepts of the object-oriented progr
 How does it work?
 -
 
-When starting the program, the user will need to enter a path to the folder where the database data files are located. The application will then enter dialog mode and allow execution of requests to the database.
+When starting the program, the user will need to enter a path to the folder where the database data files are located. The application will then enter dialog mode and allow execution of requests to the database. The database is stored in .ss145 format!
