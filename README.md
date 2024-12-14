@@ -18,7 +18,7 @@ What about the field types?
 There are currently four types:
 | Type Name | Description |
 |---|---|
-| `Integer` | Represents signed integers, also positive and negative |
+| `Integer` | Represents signed integers |
 | `Real` | Rrepresents double-precision floating-point numbers |
 | `Text` | Stores character strings or textual information. It can contain any text of any length, including letters, numbers, symbols, and spaces |
 | `Null` | It is equal to empty field |
