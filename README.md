@@ -40,7 +40,7 @@ This project supports most of the basic SQL commands like *select from*, *alter 
 | `{update set, delete from, select from, join on} where <expression condition> {or, and} ...`| *where* filter rows based on specified conditions. It is absolutely powerful when combined with *join on* |
 | `<select statement> join <table name> on <field name>=<field name>` | *join on* is used to combine rows from two or more tables based on a related column. The *on* keyword specifies the condition for joining the tables | 
  
-Description of the task:
+Description of the project:
 -
 
--  
+-  [Project - SQL](https://docs.google.com/document/d/1plPlHe1RXmRjGrpx6Hq911mPP22FcsZgpEZixvR9Sj8/edit?tab=t.0) -//Note: That's my description of my task, it is written in Bulgarian.
