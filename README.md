@@ -1,4 +1,4 @@
-# SimpleSQL145Project
+# SimpleSQL145
 
 ![images](https://github.com/user-attachments/assets/255483a8-bfad-4c0a-883a-a7eb3d8ab3e8)
 
