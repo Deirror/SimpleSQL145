@@ -30,8 +30,8 @@ This project supports most of the basic SQL functions like *select from*, *alter
 | Operation | Description |
 |---|---|
 | `show tables` | This command shows the names of all existing tables in the given directory |
-| `select {<field1, field2,...>, *} from <table name>` | The *select from* statement is used to retrieve specific data from a table in a database |
-| `Real` | Rrepresents double-precision floating-point numbers |
+| `select {<field1, field2, ...>, *} from <table name>` | The *select from* statement is used to retrieve specific data from a table in a database |
+| `create table <table name> (<field name> <field type>, ...)` | The *create table* statement is used to define a new table in a database. It specifies the table name, column names, their data types |
 | `Text` | Stores character strings or textual information. It can contain any text of any length, including letters, numbers, symbols, and spaces |
 | `Null` | It is equal to empty field |
 
