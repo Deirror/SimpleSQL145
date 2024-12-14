@@ -30,8 +30,11 @@ This project supports most of the basic SQL functions like *select from*, *alter
 | Operation | Description |
 |---|---|
 | `show tables` | This command shows the names of all existing tables in the given directory |
-| `select {<field1, field2, ...>, *} from <table name>` | The *select from* statement is used to retrieve specific data from a table in a database |
-| `create table <table name> (<field name> <field type>, ...)` | The *create table* statement is used to define a new table in a database. It specifies the table name, column names, their data types |
-| `Text` | Stores character strings or textual information. It can contain any text of any length, including letters, numbers, symbols, and spaces |
-| `Null` | It is equal to empty field |
-
+| `select {<field1, field2, ...>, *} from <table name>` | *select from* is used to retrieve specific data from a table in a database |
+| `create table <table name> (<field name> <field type>, ...)` | *create table* is used to define a new table in a database. It specifies the table name, column names, their data types |
+| `insert into <table name> (<field1, field2, ...>) values (<field1 value, field2 value, ...>),  ...` | *insert into* is used to add new rows of data into a table. It specifies the table name, the columns to populate, and the corresponding values to insert |
+| `alter table <table name> add <field name> <field type>` | Using *alter table add*, you can add a new column to the table with a specified data type |
+| `alter table <table name> drop column <field name>` |  |
+| `alter table <table name> drop column <field name>` |  |
+| `alter table <table name> drop column <field name>` |  |
+ 
