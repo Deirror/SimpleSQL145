@@ -38,5 +38,5 @@ This project supports most of the basic SQL commands like *select from*, *alter 
 | `alter table <table name> rename column <field name> to <new field name>` | *alter table* with *rename column* is used to rename an existing column in a table. This allows you to update the column name while retaining its data and properties |
 | `update test_table set <field name>=<new value>` | *update set* is used to modify existing records in a table |
 | `{update set, delete from, select from, join on} where <expression condition> {or, and} ...`| *where* filter rows based on specified conditions. It is absolutely powerful when combined with *join on* |
-| `<select statement> join <table name> on <field name>=<field name>` | *join on* is used to combine rows from two or more tables based on a related column. The ON keyword specifies the condition for joining the tables | 
+| `<select statement> join <table name> on <field name>=<field name>` | *join on* is used to combine rows from two or more tables based on a related column. The *on* keyword specifies the condition for joining the tables | 
  
